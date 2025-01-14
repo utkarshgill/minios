@@ -1,5 +1,7 @@
 # simple_os
 
+sub 1000 line os
+
 - [x] c standard library
 - [x] kernel panic
 - [x] exception

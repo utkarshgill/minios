@@ -1,3 +1,5 @@
+# inspired by https://github.com/nuta/operating-system-in-1000-lines
+
 set -xue
 
 # QEMU file path

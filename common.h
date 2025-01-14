@@ -9,6 +9,9 @@ typedef uint32_t size_t;
 typedef uint32_t paddr_t;
 typedef uint32_t vaddr_t;
 
+#define SYS_READFILE  4
+#define SYS_WRITEFILE 5
+
 #define true  1
 #define false 0
 #define NULL  ((void *) 0)

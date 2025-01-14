@@ -1,6 +1,6 @@
 # simple_os
 
-sub 1000 line os
+sub 1000 line RISC-V operating system
 
 - [x] c standard library
 - [x] kernel panic

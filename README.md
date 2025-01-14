@@ -1,9 +1,5 @@
 # simple_os
 
-<!--
-inspired by https://github.com/nuta/operating-system-in-1000-lines
--->
-
 - [x] c standard library
 - [x] kernel panic
 - [x] exception
@@ -15,3 +11,5 @@ inspired by https://github.com/nuta/operating-system-in-1000-lines
 - [x] system call
 - [x] disk i/o
 - [ ] file system
+
+inspired by https://github.com/nuta/operating-system-in-1000-lines

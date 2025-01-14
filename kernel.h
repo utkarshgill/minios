@@ -4,6 +4,7 @@
 
 #define SCAUSE_ECALL 8
 
+#define SSTATUS_SUM (1 << 18)  // Permit Supervisor User Memory access
 #define SSTATUS_SPIE (1 << 5)
 
 #define USER_BASE 0x1000000

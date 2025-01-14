@@ -13,5 +13,3 @@ sub 1000 line RISC-V operating system
 - [x] system call
 - [x] disk i/o
 - [ ] file system
-
-inspired by https://github.com/nuta/operating-system-in-1000-lines

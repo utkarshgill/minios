@@ -12,4 +12,4 @@ sub 1000 line RISC-V operating system
 - [x] user mode
 - [x] system call
 - [x] disk i/o
-- [ ] file system
+- [x] file system

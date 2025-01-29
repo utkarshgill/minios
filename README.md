@@ -1,4 +1,4 @@
-# simple_os
+# mini_os
 
 sub 1000 line RISC-V operating system
 
